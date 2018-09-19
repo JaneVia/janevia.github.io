@@ -1,9 +1,9 @@
 # Basic
 title: JaneVia's Blog
 subtitle: If Not Me, Who? If Not Now, When?
-welcome_message: <a href="https://janevia.github.io/" target="_blank">Download the theme</a>
+welcome_message: <a href="https://janevia.github.io/" target="_blank">Welcom to my blog!</a>
 description: Welcom to my blog.
-creator: <a href="https://janevia.github.io">@onevcat</a>
+creator: <a href="https://janevia.github.io">@janevia</a>
 
 url: "https://janevia.github.io"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
